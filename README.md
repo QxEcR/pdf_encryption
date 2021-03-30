@@ -15,6 +15,6 @@ $ pip3 install .
 #### Enter the password you wish
 ```shell
 $ pdf_pass my_pdf_file
-$Password: 
+$ Password: 
 ```
 #### a new pdf file will be created with password you entered
